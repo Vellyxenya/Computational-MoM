@@ -1,4 +1,4 @@
-# Assignment 3 - Boids
+# Boids
 
 ## 1) Integration schemes
 
