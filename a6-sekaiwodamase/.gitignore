@@ -1,0 +1,4 @@
+build/*
+ext/cache/*
+CMakeLists.txt.user
+.vscode/
